@@ -17,3 +17,4 @@ expressions could be nested in ( and )
 
 Demonstration application is available under Release tab.
 
+![LogicExpressionSyntax demonstration application](https://github.com/misaz/LogicExpressionSyntax/raw/master/doc/logexpr.png)
