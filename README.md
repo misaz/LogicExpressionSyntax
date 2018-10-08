@@ -4,11 +4,13 @@ It is library and simple application which parses syntax of logic expression and
 It was created as BI-MLO homework at [FIT CTU](https://fit.cvut.cz)
 
 # Syntax
-| syntax | name |
-| `!A` | negation |
-| `A /\ B` | conjunction |
-| `A \/ B` | disjunction |
-| `A => B` | implication |
+
+| syntax    | name        |
+|-----------|-------------|
+| `!A`      | negation    |
+| `A /\ B`  | conjunction |
+| `A \/ B`  | disjunction |
+| `A => B`  | implication |
 | `A <=> B` | equivalency |
 
 expressions could be nested in ( and )
